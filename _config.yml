@@ -2,11 +2,11 @@
 title: Aaqib Syed
 subtitle: Portfolio
 email: aqib.sy@gmail.com
-description: Software Developer Portfolio.
+description: This is my Software Development Portfolio.
 baseurl: "/aaqibsyed" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1 Hallmark Avenue
+street_address: Ravet
 city: Pune
 state: MH
 zip_code: 412101

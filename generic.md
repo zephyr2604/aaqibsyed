@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Work Experience & Education
+description: Check out my Career History and Degrees.
+image: assets/images/graduation.jpg
 nav-menu: true
 ---
 
